@@ -1,0 +1,4 @@
+2D Array :
+* Print the matrix in increasing or decreasing order
+* How many diagonals are there in matrix ?
+ -> (row length + col length) - 1 = Number of diagonals
